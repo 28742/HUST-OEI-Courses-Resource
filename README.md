@@ -1,13 +1,13 @@
-# HUST_EIC_Intro
-:label: 华中科技大学电信学院-电信专业 的课程分享与攻略
+# HUST_OEI_Intro
+:label: 华中科技大学光学与电子信息学院-电子信息专业的课程分享与攻略
 
 <p align="center">
-  <img src="https://s2.loli.net/2022/03/22/2Wvrnfo51d7F3Zz.png" alt="学院图标">
+  <img src="https://raw.githubusercontent.com/28742/Images/master/20221002192924.png" alt="学院图标">
 </p>
 
 
 
-- [HUST_EIC_Intro](#hust_eic_intro)
+- [HUST_OEI_Intro](#hust_oei_intro)
   - [前言📕](#前言)
     - [**Why？**:fireworks:](#whyfireworks)
     - [What？💻](#what)
@@ -37,9 +37,9 @@
 
 ### **Why？**:fireworks:
 
-当今社会我们面临的普遍矛盾：越来越多的东西需要学习，时间却越来越少。
+当今社会我们面临的普遍矛盾：越来越多的东西需要学习，时间却越来越少，尤其是在光电这样的“卷院”里。
 
-因此，我们希望可以建立一个针对HUST-EIC的课程共享资料库，帮助大家提升课程的学习效率。
+因此，我们希望可以建立一个针对HUST-OEI的课程共享资料库，帮助大家提升课程的学习效率。
 
 同时，我们也希望提供一些方向的学习路线与课外资源，帮助后面的同学可以更早的看清前进的方向，在努力的路上少踩一些坑。
 
@@ -47,7 +47,7 @@
 
 :label:主要内容包括：课程作业，实验代码，实验报告，课外学习资源推荐、杂谈
 
-:broken_heart: 不包括：因为版权问题，暂时不包括课程的课件与电子书资源
+:broken_heart: 不包括：因为版权问题，暂时不包括课程的课件与电子书资源（暂时，之后可能会更新）
 
 注：目前内容还在更新调整中，建议通过 `star` 而非`fork`的方式跟踪最新的`repo`
 
@@ -57,7 +57,7 @@
 
 [风口来了？一个视频讲透电子信息类所有专业/行业！【框框的b站大学-电子信息类】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1g44y1N7iQ?share_source=copy_web)
 
-希望对你有启发和帮助😊
+希望对你有启发和帮助😊（此项适合电信专业学生阅读）
 
 ## 下载🔽
 
